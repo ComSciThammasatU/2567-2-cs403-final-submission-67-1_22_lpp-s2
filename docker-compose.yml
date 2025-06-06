@@ -1,0 +1,17 @@
+# <-- version: "3.8"
+services:
+  postgres:
+    image: postgres:15
+    container_name: meeting-postgres
+    restart: unless-stopped
+    ports:
+      - "5433:5432"  # <-- แก้ตรงนี้: ต้องมีช่องว่างหลัง dash และใส่เป็น string
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: postgres
+    volumes:
+      - postgres-data:/var/lib/postgresql/data  # <-- แก้ indentation ตรงนี้
+
+volumes:
+  postgres-data:  # <-- ใช้ default volume
