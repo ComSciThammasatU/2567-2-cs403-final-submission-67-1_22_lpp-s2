@@ -1,16 +1,35 @@
 **<ins>Note</ins>: Students must update this `README.md` file to be an installation manual or a README file for their own CS403 projects.**
 
-**รหัสโครงงาน:** ระบุรหัสโครงงานที่นี่ เช่น 66-2_01_ssr-s2
+Note: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.
 
-**ชื่อโครงงาน (ไทย):** ระบุชื่อโครงงานภาษาไทยที่นี่ เช่น ระบบสั่งอาหารผ่านรหัสคิวอาร์โค้ด
+รหัสโครงงาน: ระบุรหัสโครงงานที่นี่ เช่น 67-1_22_lpp-s2
 
-**Project Title (Eng):** ระบุชื่อโครงงานภาษาอังกฤษซึ่งเขียนด้วยตัวอักษรภาษาอังกฤษตัวพิมพ์ใหญ่ทั้งหมดที่นี่ เช่น QR CODE ORDERRING 
+ชื่อโครงงาน (ไทย): เว็บแอปพลิเคชันจองห้องเรียนภายในตึกบรรยายรวม 2 มหาวิทยาลัยธรรมศาสตร์
 
-**อาจารย์ที่ปรึกษาโครงงาน:** ระบุชื่ออาจารย์ที่ปรึกษาโครงงานที่นี่ 
+Project Title (Eng): WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE & TECHNOLOGY THAMMASAT UNIVERSITY
 
-**ผู้จัดทำโครงงาน:** (โปรดเขียนข้อมูลผู้จัดทำโครงงานตามฟอร์แมตดังแสดงในตัวอย่างด้านล่าง)
-1. นายธรรม รักการดี  6409610010  tham.rak@dome.tu.ac.th
-2. <ถ้ามี>
+อาจารย์ที่ปรึกษาโครงงาน: ผศ. ดร. ลัมพาพรรณ พันธ์ชูจิตร์
+
+ผู้จัดทำโครงงาน:
+
+นางสาวอภิสรา สุขอร่าม 6309650163 apisara.suk@dome.tu.ac.th
+นางสาวญาณิศา ณ ศรีตะคุ 6109650017
+Manual / Instructions for your projects starts here !
+
+ขั้นตอนการโหลดไฟล์มี 2 วิธี
+วิธีที่ 1: Download ZIP
+ไปที่หน้า GitHub Repository
+คลิกปุ่ม "สีเขียว" ที่เขียนว่า Code
+เลือก Download ZIP
+แตกไฟล์ .zip ที่ดาวน์โหลดมา
+เปิดโฟลเดอร์ใน Visual Studio Code
+
+วิธีที่ 2: Clone Code จาก GitHub
+สร้างโฟลเดอร์ที่ต้องการเก็บโปรเจกต์
+เปิดโปรแกรม Visual Studio Code และ Command Prompt
+พิมพ์คำสั่งต่อไปนี้ใน Command Prompt เพื่อ clone โปรเจกต์จาก GitHub:
+git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_22_lpp-s2.git
+
    
 Manual / Instructions for your projects starts here !
 # Topic 1
