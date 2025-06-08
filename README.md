@@ -1,7 +1,5 @@
 **<ins>Note</ins>: Students must update this `README.md` file to be an installation manual or a README file for their own CS403 projects.**
 
-Note: Students must update this README.md file to be an installation manual or a README file for their own CS403 projects.
-
 รหัสโครงงาน: ระบุรหัสโครงงานที่นี่ เช่น 67-1_22_lpp-s2
 
 ชื่อโครงงาน (ไทย): เว็บแอปพลิเคชันจองห้องเรียนภายในตึกบรรยายรวม 2 มหาวิทยาลัยธรรมศาสตร์
