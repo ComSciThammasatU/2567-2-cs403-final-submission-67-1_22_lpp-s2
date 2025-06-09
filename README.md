@@ -14,7 +14,7 @@ Project Title (Eng): WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE
 2. นางสาวญาณิศา ณ ศรีตะคุ 6109650017 yanisa.na@dome.tu.ac.th
 
 
-A modern and responsive frontend for the meeting room reservation system in Building 2, built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/).
+A modern and responsive for the meeting room reservation system in Building 2, built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
 ## 🚀 Prerequisites
 This project is built using the following technologies
