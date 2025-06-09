@@ -16,8 +16,8 @@ Manual / Instructions for your projects starts here !
 
 A modern and responsive frontend for the meeting room reservation system in Building 2, built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
-## 🚀 Tech Stack
-
+## 🚀 Prerequisites
+This project is built using the following technologies
 - Vite
 - React
 - Tailwind CSS
@@ -25,7 +25,7 @@ A modern and responsive frontend for the meeting room reservation system in Buil
 - Axios (for API requests)
 - React Router DOM
   
-## 📚 How to Download the Project
+## 📚 Installing
 
 You can download this project using one of the following two methods:
 
