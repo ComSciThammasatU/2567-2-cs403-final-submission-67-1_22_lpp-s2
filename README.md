@@ -12,7 +12,7 @@ Project Title (Eng): WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE
 
 1. นางสาวอภิสรา สุขอร่าม 6309650163 apisara.suk@dome.tu.ac.th
 2. นางสาวญาณิศา ณ ศรีตะคุ 6109650017 yanisa.na@dome.tu.ac.th
-Manual / Instructions for your projects starts here !
+
 
 A modern and responsive frontend for the meeting room reservation system in Building 2, built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
