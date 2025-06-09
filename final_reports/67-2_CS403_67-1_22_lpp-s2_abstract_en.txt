@@ -1,0 +1,15 @@
+เว็บแอปพลิเคชันจองห้องเรียนภายในตึกบรรยายรวม 2 มหาวิทยาลัยธรรมศาสตร์
+WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE &TECHNOLOGY THAMMASAT UNIVERSITY 
+
+ABSTRACT
+Currently, booking classrooms within Building 2 at Thammasat University
+requires a manual written request, which is then filed. Many users find this
+process inconvenient and prefer to request bookings via LINE. However, this
+creates an additional workload for staff and can cause delays.
+To resolve these issues, the development team has created a web
+application for booking classrooms in Lecture Hall Building 2 at Thammasat
+University. This new system is designed to streamline the reservation process,
+allowing users to book rooms quickly and conveniently, while also reducing
+the administrative burden on staff, thus improving overall efficiency.The
+developers hope that this application will be beneficial to departments and
+personnel within the Faculty of Science at Thammasat University
