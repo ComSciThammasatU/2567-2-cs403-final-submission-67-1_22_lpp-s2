@@ -14,32 +14,47 @@ Project Title (Eng): WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE
 2. นางสาวญาณิศา ณ ศรีตะคุ 6109650017 yanisa.na@dome.tu.ac.th
 Manual / Instructions for your projects starts here !
 
-### วิธีดาวน์โหลดโปรเจกต์
+A modern and responsive frontend for the meeting room reservation system in Building 2, built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
-คุณสามารถดาวน์โหลดโปรเจกต์นี้ได้ 2 วิธี:
+## 🚀 Tech Stack
 
-#### วิธีที่ 1: ดาวน์โหลดเป็น ZIP
+- Vite
+- React
+- Tailwind CSS
+- TypeScript (optional)
+- Axios (for API requests)
+- React Router DOM
+  
+## 📚 How to Download the Project
 
-1. ไปที่หน้า [GitHub Repository](https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_22_lpp-s2)
-2. คลิกปุ่มสีเขียว **Code**
-3. เลือก **Download ZIP**
-4. แตกไฟล์ `.zip` ที่ดาวน์โหลดมา
-5. เปิดโฟลเดอร์ใน **Visual Studio Code**
+You can download this project using one of the following two methods:
 
----
+#### Method 1: Download as ZIP
 
-#### วิธีที่ 2: Clone ด้วย Git
+1. Go to the [GitHub Repository](https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_22_lpp-s2)
+2. Click the green **Code** button
+3. Select **Download ZIP**
+4. Extract the downloaded `.zip` file
+5. Open the extracted folder in **Visual Studio Code**
 
-1. สร้างโฟลเดอร์สำหรับเก็บโปรเจกต์ในเครื่องของคุณ
-2. เปิด **Visual Studio Code** และ **Command Prompt** หรือ **Terminal**
-3. รันคำสั่งด้านล่างเพื่อ clone โปรเจกต์:
+
+#### Method 2: Clone via Git
+
+1. Create a folder where you'd like to store the project
+2. Open **Visual Studio Code** and **Command Prompt** or **Terminal**
+3. Run the following command to clone the repository:
 
    ```bash
    git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_22_lpp-s2.git
 
-
+## 📦 Setup
+1. Open the project folder in Visual Studio Code.
+2. Install the required dependencies
    
-Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
-# Topic 3
+   ```bash
+   npm install 
+3. Run the application:
+   ```bash
+   npm run dev
+   ```
+   
