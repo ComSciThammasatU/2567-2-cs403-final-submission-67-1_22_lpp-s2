@@ -14,11 +14,11 @@ Project Title (Eng): WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE
 2. นางสาวญาณิศา ณ ศรีตะคุ 6109650017 yanisa.na@dome.tu.ac.th
 Manual / Instructions for your projects starts here !
 
-## วิธีดาวน์โหลดโปรเจกต์
+### วิธีดาวน์โหลดโปรเจกต์
 
 คุณสามารถดาวน์โหลดโปรเจกต์นี้ได้ 2 วิธี:
 
-### วิธีที่ 1: ดาวน์โหลดเป็น ZIP
+#### วิธีที่ 1: ดาวน์โหลดเป็น ZIP
 
 1. ไปที่หน้า [GitHub Repository](https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_22_lpp-s2)
 2. คลิกปุ่มสีเขียว **Code**
@@ -28,7 +28,7 @@ Manual / Instructions for your projects starts here !
 
 ---
 
-### วิธีที่ 2: Clone ด้วย Git
+#### วิธีที่ 2: Clone ด้วย Git
 
 1. สร้างโฟลเดอร์สำหรับเก็บโปรเจกต์ในเครื่องของคุณ
 2. เปิด **Visual Studio Code** และ **Command Prompt** หรือ **Terminal**
