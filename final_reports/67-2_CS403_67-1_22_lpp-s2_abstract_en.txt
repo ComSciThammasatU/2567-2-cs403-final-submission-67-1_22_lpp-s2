@@ -1,7 +1,6 @@
 เว็บแอปพลิเคชันจองห้องเรียนภายในตึกบรรยายรวม 2 มหาวิทยาลัยธรรมศาสตร์
 WEB APPLICATION FOR RESERVATION ROOMS IN FACULTY OF SCIENCE &TECHNOLOGY THAMMASAT UNIVERSITY 
 
-ABSTRACT
 Currently, booking classrooms within Building 2 at Thammasat University
 requires a manual written request, which is then filed. Many users find this
 process inconvenient and prefer to request bookings via LINE. However, this
